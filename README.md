@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Looking for work as a python developer freelance in data fields<br>👯 I’m looking to collaborate on data projects on which you are passionate<br>🌱 I’m currently learning data engineering
+🔭 Freelancer looking for work as a python developer ( Django / FLask )<br>👯 I’m looking to collaborate on data projects on which you are passionate<br>🌱 I’m currently learning data engineering
 
 
 ## 🌐 Socials:
